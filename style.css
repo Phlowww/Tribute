@@ -1,0 +1,74 @@
+h1 {
+	text-align: center;
+	font-size: 50px;
+}
+.elonmuskjpg {
+	object-fit: cover;
+	border-radius: 50%;
+	border: 5px solid firebrick;
+}
+p {
+	text-align: center;
+	font-size: 35px;
+}
+ul {
+	text-align: center;
+	list-style-type: none;
+	font-size: 35px;
+}
+h2 {
+	font-size: 40px;
+	text-align: center;
+}
+.dividerline {
+	width: 100%;
+	height: 5px;
+	background-color: firebrick;
+}
+body {
+	background-color: black;
+	color: firebrick;
+	position: absolute;
+	background-image: url(teslalogo.png);
+}
+ol {
+	text-align: left;
+	line-height: 75px;
+}
+button {
+	padding: none;
+	border-color: firebrick;
+	margin: none;
+	background: none;
+	color: firebrick;
+	border-radius: 50px;
+	font-size: 50px;
+	text-align: center;
+}
+#button {
+	text-align: left;
+	font-size: 50px;
+}
+#factlist {
+	margin-left: 25px;
+}
+#buttonbibliography {
+ 	position: fixed;
+ 	left: 10px;
+ 	bottom: 5px;
+}
+#sources {
+	line-height: 50px;
+}
+a:link {
+	color: firebrick;
+}
+a:visited {
+	color: darkred;
+}
+a:hover {
+	color: mediumvioletred;
+}
+a:active {
+	color: blue;
+}
