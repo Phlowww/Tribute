@@ -36,8 +36,10 @@ ol {
 	line-height: 75px;
 }
 button {
+	padding: none;
 	border-color: firebrick;
-	background-color: black;
+	margin: none;
+	background: none;
 	color: firebrick;
 	border-radius: 50px;
 	font-size: 50px;
