@@ -75,3 +75,7 @@ a:hover {
 a:active {
 	color: blue;
 }
+span {
+	margin: 10px 10px;
+	font-size: 40px;
+}
